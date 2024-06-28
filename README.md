@@ -15,10 +15,9 @@ Prestige Urban is designed to provide a seamless shopping experience for users. 
 ## Technologies Used
 
 - **Front-end**: HTML, CSS, JavaScript, React
-- **Back-end**: Node.js, Express
-- **Database**: MongoDB
+- **Back-end**: Python
+- **Database**: MySQL Lite
 - **Version Control**: Git
-- **Hosting**: [Your hosting service, if applicable]
 
 ## Privacy and Security Concerns
 
@@ -42,3 +41,7 @@ Before pushing the project to GitHub, it's essential to address some security an
 - **Payment Integration**: Add secure payment processing using a service like Stripe or PayPal.
 - **Enhanced User Profiles**: Allow users to save their favorite items and set preferences.
 - **Search and Filter**: Implement advanced search and filtering options for the product catalog.
+
+## Authors
+- *Oussama EL Guennouni*
+- *Soufiane EL Houmy*
